@@ -10,11 +10,11 @@ The Time Zone Database (often called tz or zoneinfo) contains code and data that
 
 ### Mailing Lists
 
-Announcements |  | 
+Announcements | _ | _ 
 --- | --- | ---
 A low-volume announcement mailing list used for announcing updates to the Time Zone Database. |	[Subscribe/Unsubscribe](http://mm.icann.org/mailman/listinfo/tz-announce) |	[Archive](http://mm.icann.org/pipermail/tz-announce)
 
-Submissions/Discussions |  | 
+Submissions/Discussions | _ | _
 --- | --- | ---
 A higher volume discussion list used for discussing proposals for updates to the Database. Contributions to this list may be emailed to tz@iana.org. | 	[Subscribe/Unsubscribe](http://mm.icann.org/mailman/listinfo/tz) | 	[Archive](http://mm.icann.org/pipermail/tz)
 
