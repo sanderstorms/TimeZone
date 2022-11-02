@@ -21,8 +21,8 @@ A higher volume discussion list used for discussing proposals for updates to the
 
 We provide access to the Time Zone Database via three methods:
 
- - **HTTP**: https://www.iana.org/time-zones
- - **FTP**: ftp://ftp.iana.org/tz/
+ - **HTTP**: [https://www.iana.org/time-zones](https://www.iana.org/time-zones)
+ - **FTP**: [ftp://ftp.iana.org/tz/](ftp://ftp.iana.org/tz/)
  - **Rsync**: rsync://rsync.iana.org/tz/
 
 
