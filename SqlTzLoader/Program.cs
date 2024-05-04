@@ -109,7 +109,7 @@ namespace SqlTzLoader
 
         private static async Task WriteIntervalsAsync(IDictionary<string, int> zones, CurrentTzdbProvider tzdb)
         {
-            var currentUtcYear = SystemClock.Instance.Now.InUtc().Year;
+            var currentUtcYear = SystemClock.Instance.GetCurrentInstant().InUtc().Year;
             var maxYear = currentUtcYear + 5;
             var maxInstant = new LocalDate(maxYear + 1, 1, 1).AtMidnight().InUtc().ToInstant();
 
